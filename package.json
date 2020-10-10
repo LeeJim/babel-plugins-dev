@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugins-dev",
+  "version": "1.0.0",
+  "description": "开发babel plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeJim/babel-plugins-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeJim/babel-plugins-dev/issues"
+  },
+  "homepage": "https://github.com/LeeJim/babel-plugins-dev#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
